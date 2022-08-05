@@ -1,0 +1,15 @@
+Number of Spatter (small/red): 281
+Number of Spatter (medium/green): 82
+Number of Spatter (large/blue): 40
+Total Number of Spatter: 403
+
+Amount of Spatter Area (small/red): 1312
+Amount of Spatter Area (medium/green): 1507
+Amount of Spatter Area (large/blue): 4057
+Total Amount of Spatter Area: 6876
+
+Spatter to Build Ratio (small/red): 0.00105408
+Spatter to Build Ratio (medium/green): 0.00121075
+Spatter to Build Ratio (large/blue): 0.00325946
+Total Spatter to Build Ratio: 0.00552429
+
